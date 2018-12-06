@@ -1,8 +1,8 @@
 {
-  "name": "@huoyu/vue-digitroll",
-  "version": "1.0.1",
+  "name": "vue-better-digitroll",
+  "version": "1.1.0",
   "description": "vue组件实现数字滚动效果，轻量，灵活",
-  "author": "火禹 <Benren9347@gmail.com>",
+  "author": "火禹 <Benren9347@gmail.com> zsrifs <zhenglfsir@gmail.com>",
   "keywords": [
     "vue",
     "animation",
@@ -24,13 +24,13 @@
   "peerDependencies": {
     "vue": "^2.5.2"
   },
-  "homepage": "https://github.com/gitWhatever/vue-digitroll",
+  "homepage": "https://github.com/GunmaNetWork/vue-digitroll",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gitWhatever/vue-digitroll"
+    "url": "https://github.com/GunmaNetWork/vue-digitroll"
   },
   "bugs": {
-    "url": "https://github.com/gitWhatever/vue-digitroll/issues"
+    "url": "https://github.com/GunmaNetWork/vue-digitroll/issues"
   },
   "devDependencies": {
     "@vue/test-utils": "^1.0.0-beta.24",
@@ -100,5 +100,9 @@
     "> 1%",
     "last 2 versions",
     "not ie <= 8"
+  ],
+  "files": [
+    "dist",
+    ".babelrc"
   ]
 }
